@@ -203,11 +203,11 @@ unset($_SESSION['content']);
 											<ul class="about-list" data-delighter>
 												<li>
 													<div id="birth" class="d">誕生日</div>
-													<span><label><img class="about-img birth" src="https://img.icons8.com/office/40/000000/birthday-cake.png"></label><div class="br_sp about_img about_img"></div> <p>199X.01.16</p></span>
+													<span><label><img class="about-img birth" src="https://img.icons8.com/office/40/000000/birthday-cake.png"></label><div class="br_sp about_img about_img"></div> <p>1991.01.16</p></span>
 												</li>
 												<li>
 														<div id="address" class="d">住所</div>
-													<span><label><a href="https://goo.gl/maps/AVXLVkBtegfGGEmZA" target="_blank"><img class="about-img address" src="https://img.icons8.com/ultraviolet/40/000000/marker.png"></a></label><div class="br_sp about_img"></div><a href="https://goo.gl/maps/AVXLVkBtegfGGEmZA" target="_blank"> <p>福岡県</p></a></span>
+													<span><label><a href="https://goo.gl/maps/VEnbQUHBppWf2EDd7" target="_blank"><img class="about-img address" src="https://img.icons8.com/ultraviolet/40/000000/marker.png"></a></label><div class="br_sp about_img"></div><a href="https://goo.gl/maps/AVXLVkBtegfGGEmZA" target="_blank"> <p>福岡県</p></a></span>
 												</li>
 												<li>
 														<div id="academic" class="d">学歴</div>
@@ -222,13 +222,13 @@ unset($_SESSION['content']);
 													<span><label><a href="#"><img class="about-img home" src="https://img.icons8.com/offices/40/000000/home.png"></a></label> <div class="br_sp about_img"></div><a href="#"><p>www.mary-orchis.com</p></a></span>
 												</li>
 												<li><div id="mails" class="d">メール</div>
-													<span><label><a href="mailto:orchis.mary@gmail.com" target="_blank"><img class="about-img mails" src="https://img.icons8.com/plasticine/53/000000/important-mail.png"></a></label> <a href="mailto:orchis.mary@gmail.com"><p class="last-label">orchis.mary&#64;gmail.com</p></a></span>
+													<span><label><a href="mailto:mery.orchis@gmail.com" target="_blank"><img class="about-img mails" src="https://img.icons8.com/plasticine/53/000000/important-mail.png"></a></label> <a href="mailto:orchis.mary@gmail.com"><p class="last-label">orchis.mary&#64;gmail.com</p></a></span>
 												</li>
 												<li><div id="tel" class="d">電話</div>
-													<span><label><a href="tel:00000008753" target="_blank"><img class="about-img tel" src="https://img.icons8.com/office/40/000000/phone.png"></a></label> <div class="br_sp about_img"></div><a href="tel:00000008753"><p>+00 000 0000 8753</p></a></span>
+													<span><label><a href="tel:08017143609" target="_blank"><img class="about-img tel" src="https://img.icons8.com/office/40/000000/phone.png"></a></label> <div class="br_sp about_img"></div><a href="tel:00000008753"><p>+00 000 0000 8753</p></a></span>
 												</li>
 												<li><div id="twi" class="d">twitter</div>
-													<span><label><a href="https://twitter.com/orchis_mary" target="_blank"><img class="about-img twi" src="https://img.icons8.com/ultraviolet/40/000000/twitter.png"></a></label><div class="br_sp about_img"></div> <a href="https://twitter.com/orchis_mary" target="_blank"><p>&#64;orchis_mary</p></a></span>
+													<span><label><a href="https://twitter.com/mery_orchis" target="_blank"><img class="about-img twi" src="https://img.icons8.com/ultraviolet/40/000000/twitter.png"></a></label><div class="br_sp about_img"></div> <a href="https://twitter.com/orchis_mary" target="_blank"><p>&#64;orchis_mary</p></a></span>
 												</li>
 											</ul>
 										</div>
