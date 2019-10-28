@@ -17,17 +17,17 @@ unset($_SESSION['content']);
 <html lang= "ja">
 <head>
 <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
-<meta name="description" content="マリィのホームページです。現在、カスタムキャストのなりきりとしてtwiiterで活動しております。
+<meta name="description" content="ホームページです。現在、カスタムキャストのなりきりとしてtwiiterで活動しております。
 新しい道を切り開くべく、プログラミングの知識を習得しております。">
-<meta name="author" content="マリィ">
+<meta name="author" content="製作物">
 <meta name="viewport" content="width=device-width, user-scalable=no, initial-scale=1.0, maximum-scale=1.0, minimum-scale=1.0">
 <meta http-equiv="X-UA-Compatible" content="ie=edge">
 <meta name="twitter:card" content="summary" />
-<meta name="twitter:site" content="@orchis_mary" />
+<meta name="twitter:site" content="" />
 <meta property="og:url" content="https://www.mary-orchis.com" />
 <meta property="og:title" content="Mary's Portfolio" />
-<meta property="og:description" content="マリィのホームページです。現在、カスタムキャストのなりきりとしてtwiiterで活動しております。
-また、本業を事務職からプログラマーへと転職すべく日々、プログラミングの知識を習得しております。" />
+<meta property="og:description" content="海をコンセプトに作成したホームページです。
+本業を事務職からプログラマーへと転職すべく日々、プログラミングの知識を習得しております。" />
 <meta property="og:image" content="img/twitter-card.jpg" />
 
 <title>Mary's Portfolio</title>
