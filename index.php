@@ -203,11 +203,11 @@ unset($_SESSION['content']);
 											<ul class="about-list" data-delighter>
 												<li>
 													<div id="birth" class="d">誕生日</div>
-													<span><label><img class="about-img birth" src="https://img.icons8.com/office/40/000000/birthday-cake.png"></label><div class="br_sp about_img about_img"></div> <p>1991.01.16</p></span>
+													<span><label><img class="about-img birth" src="https://img.icons8.com/office/40/000000/birthday-cake.png"></label><div class="br_sp about_img about_img"></div> <p>199X.01.16</p></span>
 												</li>
 												<li>
 														<div id="address" class="d">住所</div>
-													<span><label><a href="https://goo.gl/maps/VEnbQUHBppWf2EDd7" target="_blank"><img class="about-img address" src="https://img.icons8.com/ultraviolet/40/000000/marker.png"></a></label><div class="br_sp about_img"></div><a href="https://goo.gl/maps/VEnbQUHBppWf2EDd7" target="_blank"> <p>福岡県</p></a></span>
+													<span><label><a href="https://goo.gl/maps/xTjjwnGU9jkjoQ1M7" target="_blank"><img class="about-img address" src="https://img.icons8.com/ultraviolet/40/000000/marker.png"></a></label><div class="br_sp about_img"></div><a href="https://goo.gl/maps/xTjjwnGU9jkjoQ1M7" target="_blank"> <p>福岡県</p></a></span>
 												</li>
 												<li>
 														<div id="academic" class="d">学歴</div>
@@ -225,7 +225,7 @@ unset($_SESSION['content']);
 													<span><label><a href="mailto:mery.orchis@gmail.com" target="_blank"><img class="about-img mails" src="https://img.icons8.com/plasticine/53/000000/important-mail.png"></a></label> <a href="mailto:mery.orchis@gmail.com"><p class="last-label">mery.orchis&#64;gmail.com</p></a></span>
 												</li>
 												<li><div id="tel" class="d">電話</div>
-													<span><label><a href="tel:08017143609" target="_blank"><img class="about-img tel" src="https://img.icons8.com/office/40/000000/phone.png"></a></label> <div class="br_sp about_img"></div><a href="tel:08017143609"><p>+81 080 1714 3609</p></a></span>
+													<span><label><a href="tel:00000000000" target="_blank"><img class="about-img tel" src="https://img.icons8.com/office/40/000000/phone.png"></a></label> <div class="br_sp about_img"></div><a href="tel:08017143609"><p>+00 000 0000 0000</p></a></span>
 												</li>
 												<li><div id="twi" class="d">twitter</div>
 													<span><label><a href="https://twitter.com/mery_orchis" target="_blank"><img class="about-img twi" src="https://img.icons8.com/ultraviolet/40/000000/twitter.png"></a></label><div class="br_sp about_img"></div> <a href="https://twitter.com/mery_orchis" target="_blank"><p>&#64;mery_orchis</p></a></span>
